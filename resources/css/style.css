@@ -1,0 +1,50 @@
+html {
+    font-family: Verdana;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    font-size: 50px;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+}
+
+.download {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+}
+
+.small-description {
+    font-size: 21px;
+    color: grey;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.tent {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.pic-iphone {
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+.watermark { 
+    text-align: right;
+    color: grey; 
+} 
